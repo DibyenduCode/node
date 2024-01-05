@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: blue;
+    background-color: rgb(46, 226, 43);
+}
+div{
+    background-color: antiquewhite;
+    margin: 20px;
+}
+#b{
+color: red;
+padding: 40px;
+}
